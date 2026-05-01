@@ -21,10 +21,7 @@ cd backend
 npm install
 npm start
 
-#A API estará rodando em:
-
-http://localhost:3000
- Frontend
+#Frontend
 
 Abra o arquivo:
 
