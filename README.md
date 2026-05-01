@@ -21,7 +21,7 @@ cd backend
 npm install
 npm start
 
-#Frontend
+# Frontend
 
 Abra o arquivo:
 
@@ -50,7 +50,7 @@ Nota
   "disciplina": "Matemática",
   "nota": 8.5
 }
-#Tecnologias Utilizadas
+# Tecnologias Utilizadas
 Node.js
 Express
 fs-extra
@@ -63,6 +63,6 @@ Cálculo de média por aluno
 Relacionar nome do aluno automaticamente nas notas
 Interface com Bootstrap ou React
 Deploy da aplicação
-#Autor
+# Autor
 
 Desenvolvido por Matheus Freitas
